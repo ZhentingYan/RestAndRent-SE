@@ -1,2 +1,5 @@
 # RestAndRent-SE
-The project of Software Engineering which is used for fragmented space sharing
++ Sprint 1
+
+  用户管理模块
+
